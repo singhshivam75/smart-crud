@@ -81,7 +81,7 @@ The form UI, validation, and submission logic automatically adapt without any ad
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/singhshivam75/smart-crud.git
    ```
 
 2. Install dependencies
@@ -101,7 +101,7 @@ The form UI, validation, and submission logic automatically adapt without any ad
 
 The application is deployed using Vercel.
 
-Live Demo: [Add your deployed link here]
+Live Demo: https://smart-crud-oqisc60yp-singhshivam75s-projects.vercel.app/
 
 ## Assumptions and Notes
 
